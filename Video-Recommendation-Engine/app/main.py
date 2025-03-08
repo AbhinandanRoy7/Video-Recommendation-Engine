@@ -52,4 +52,4 @@ if __name__ == "__main__":
 
 @app.get("/")
 def read_root():
-    return {"recommended_videos": "[12, 45, 78, 102, 210]"}
+    return {"Welcome": "Your Server is LIVE !!! "}
